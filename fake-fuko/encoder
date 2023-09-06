@@ -1,0 +1,42 @@
+{
+    "frameEnd": "",
+    "frameStart": "",
+    "groups": [
+        {
+            "datasets": [
+                {
+                    "alarm": 54,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": true,
+                    "led": false,
+                    "log": false,
+                    "max": 54,
+                    "min": -54,
+                    "title": "Encoder",
+                    "units": "Count",
+                    "value": "%1",
+                    "widget": ""
+                },
+                {
+                    "alarm": 0,
+                    "fft": false,
+                    "fftSamples": 1024,
+                    "graph": true,
+                    "led": false,
+                    "log": false,
+                    "max": 15,
+                    "min": -15,
+                    "title": "Diff",
+                    "units": "Count",
+                    "value": "%2",
+                    "widget": ""
+                }
+            ],
+            "title": "New Group",
+            "widget": "multiplot"
+        }
+    ],
+    "separator": "",
+    "title": "Encoder"
+}
